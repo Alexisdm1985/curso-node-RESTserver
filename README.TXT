@@ -1,0 +1,11 @@
+- EXPRESS basado en clases
+----- Constructor:
+    ---- this.app
+    ---- this.port
+----- Metodos:
+    ---- middlewares() //CORS => npm i cors
+    ---- routes()
+    ---- listen()
+
+- Peticiones HTTP:
+    ---- GET - PUT - POST - DELETE
